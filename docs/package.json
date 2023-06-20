@@ -2,7 +2,7 @@
   "devDependencies": {
     "express": "^4.17.3",
     "sass": "^1.47.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^8.0.1",
     "vuepress": "^1.1.0",
     "vuepress-plugin-check-md": "^0.0.2",
     "webpack": "^4.30.0"
