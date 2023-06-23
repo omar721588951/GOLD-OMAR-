@@ -23,7 +23,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@pipedream/types": "^0.0.5",
+    "@pipedream/types": "^0.1.6",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
